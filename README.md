@@ -1,2 +1,2 @@
 # scrum-blog-visitor
-Vue app for blog's visitor.
+Vuepress app for blog's visitor.
