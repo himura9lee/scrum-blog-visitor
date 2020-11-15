@@ -1,6 +1,5 @@
 ---
 title: 关于我
-isShowComments: true
 ---
 
 ::: tip 介绍
