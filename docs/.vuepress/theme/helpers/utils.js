@@ -32,6 +32,9 @@ export function ensureExt (path) {
   if (isExternal(path)) {
     return path
   }
+  if (path==null) {
+    return ""
+  }
   const hashMatch = path.match(hashRE)
   const hash = hashMatch ? hashMatch[0] : ''
   const normalized = normalize(path)
