@@ -35,6 +35,13 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
+    ['@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          return new Date(timestamp).toLocaleDateString();
+        }
+      }
+    ],
     ["cursor-effects",
     {
       size: 2,                    // size of the particle, default: 2
@@ -72,7 +79,7 @@ module.exports = {
       ],
     ['sitemap',
       {
-      hostname: 'http://himura.xyz'
+      hostname: 'https://himura.xyz'
       }
     ],
     ['@vuepress/google-analytics',
