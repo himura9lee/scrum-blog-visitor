@@ -16,6 +16,7 @@ module.exports = {
   // 作者
   author: 'himura',
   authorAvatar: '/head.png',
+  noFoundPageByTencent: false,
   // 项目开始时间
   startYear: '2020',
   algolia: {
