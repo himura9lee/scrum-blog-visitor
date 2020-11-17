@@ -1,7 +1,5 @@
 ---
 home: true
-faceImage: '/head.png'
-bgImage: '/banner.jpg'
 heroImage: '/avatar.png'
 heroImageStyle: {
   maxHeight: '200px',
