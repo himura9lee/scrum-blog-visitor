@@ -14,7 +14,6 @@
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.5.7",
     "@vuepress-reco/vuepress-plugin-comments": "^1.5.7",
-    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "@vuepress-reco/vuepress-plugin-loading-page": "^1.5.7",
     "@vuepress-reco/vuepress-plugin-pagation": "^1.5.7",
     "@vuepress/plugin-blog": "1.9.2",
@@ -35,7 +34,6 @@
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-plugin-google-adsense": "^0.1.1",
-    "vuepress-plugin-nuggets-style-copy": "^1.0.3",
-    "vuepress-plugin-ribbon": "^1.0.2"
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3"
   }
 }
