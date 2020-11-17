@@ -1,14 +1,14 @@
 {
-  "name": "HimuraBlog",
-  "short_name": "HimuraBlog",
+  "name": "Scrum",
+  "short_name": "Scrum",
   "icons": [
     {
-      "src": "/icon_vuepress_reco.png",
+      "src": "/icon_scrum_blog.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon_vuepress_reco.png",
+      "src": "/icon_scrum_blog.png",
       "sizes": "512x512",
       "type": "image/png"
     }
