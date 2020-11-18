@@ -19,9 +19,11 @@ module.exports = {
   noFoundPageByTencent: false,
   // 项目开始时间
   startYear: '2020',
+  search: true,
+  searchMaxSuggestions: 10,
   algolia: {
-    apiKey: '8a8d01a6c334b6fa1732f84e8efec4e2',
-    indexName: 'prod_himura_blog'
+    apiKey: 'fa557a01b6b0b94b690cca1ebe1b4afb',
+    indexName: 'scrum'
     // inputSelector: '### REPLACE ME ####',
     // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
     // debug: false // Set debug to true if you want to inspect the dropdown
