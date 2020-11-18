@@ -36,5 +36,6 @@ module.exports = {
     recordIP: true,
     showComment: true
   },
+  subSidebar: 'auto',
   codeTheme: 'tomorrow'
 }
