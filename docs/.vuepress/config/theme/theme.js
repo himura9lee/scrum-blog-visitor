@@ -21,13 +21,13 @@ module.exports = {
   startYear: '2020',
   search: true,
   searchMaxSuggestions: 10,
-  algolia: {
-    apiKey: 'fa557a01b6b0b94b690cca1ebe1b4afb',
-    indexName: 'scrum'
-    // inputSelector: '### REPLACE ME ####',
-    // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
-    // debug: false // Set debug to true if you want to inspect the dropdown
-  },
+  // algolia: {
+  //   apiKey: 'b5dab6335a7ca927b0e7b724161f8818',
+  //   indexName: 'scrum'
+  //   // inputSelector: '### REPLACE ME ####',
+  //   // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
+  //   // debug: false // Set debug to true if you want to inspect the dropdown
+  // },
   // valine 设置
   valineConfig: {
     appId: 'Fqwwb9ktYuajrIr1tqri2etF-MdYXbMMI',

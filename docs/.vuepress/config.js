@@ -34,6 +34,7 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
+    require.resolve('../../myPlugins/fullSearchBox/'),
     ['@vuepress/last-updated',
       {
         transformer: (timestamp, lang) => {
